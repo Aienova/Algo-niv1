@@ -55,6 +55,7 @@ public class CasPratique1 { /* ATTENTION LA CLASSE DOIT AVOIR LE MÊME NOM QUE L
 
 
 
+          clavier.close();
 
 
         /***--------  Fin du code  -------------------****/

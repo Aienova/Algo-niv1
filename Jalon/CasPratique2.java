@@ -46,6 +46,7 @@ public class CasPratique2 { /* ATTENTION LA CLASSE DOIT AVOIR LE MÊME NOM QUE L
 
           System.out.println("Votre salaire NET est de "+String.format("%.2f", salaryNET)+" euros");
 
+          clavier.close();
         /***--------  Fin du code  -------------------****/
 
     }
