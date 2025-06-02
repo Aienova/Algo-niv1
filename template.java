@@ -9,6 +9,10 @@ public class template { /* ATTENTION LA CLASSE DOIT AVOIR LE MÊME NOM QUE LE FI
 
           /***--------  Début du code  -------------------****/
 
+         
+
+                    System.out.println(a); /* Afficher votre instruction */
+
           int a; /*  Déclaration d'une variable de Type Entier */
 
 
